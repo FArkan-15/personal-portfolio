@@ -67,7 +67,7 @@
         <div class="flex flex-col justify-center items-center gap-4">
           <img
             src="@/assets/contact-illustration.png"
-            alt="Illustration"
+            alt="Contact illustration"
             class="w-full max-w-md object-contain opacity-80"
           />
         </div>
