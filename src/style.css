@@ -3,3 +3,8 @@
 html {
   scroll-behavior: smooth;
 }
+
+/* Make anchor scroll positions account for sticky navbar height */
+section[id] {
+  scroll-margin-top: 96px;
+}
