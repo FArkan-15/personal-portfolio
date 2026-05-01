@@ -138,64 +138,43 @@ onUnmounted(() => {
     >
       <div class="flex flex-col gap-1 mt-24 px-8 text-xl overflow-hidden relative z-50">
         <a
-          @click="
-            menuOpen = false
-            setActive('home')
-          "
+          @click="menuOpen = false; setActive('home')"
           href="#home"
           :class="getLinkClass('home')"
           >Home</a
         >
         <a
-          @click="
-            menuOpen = false
-            setActive('about')
-          "
+          @click="menuOpen = false; setActive('about')"
           href="#about"
           :class="getLinkClass('about')"
           >About</a
         >
         <a
-          @click="
-            menuOpen = false
-            setActive('projects')
-          "
+          @click="menuOpen = false; setActive('projects')"
           href="#projects"
           :class="getLinkClass('projects')"
           >Projects</a
         >
         <a
-          @click="
-            menuOpen = false
-            setActive('skills')
-          "
+          @click="menuOpen = false; setActive('skills')"
           href="#skills"
           :class="getLinkClass('skills')"
           >Skills</a
         >
         <a
-          @click="
-            menuOpen = false
-            setActive('certifications')
-          "
+          @click="menuOpen = false; setActive('certifications')"
           href="#certifications"
           :class="getLinkClass('certifications')"
           >Certifications</a
         >
         <a
-          @click="
-            menuOpen = false
-            setActive('awards')
-          "
+          @click="menuOpen = false; setActive('awards')"
           href="#awards"
           :class="getLinkClass('awards')"
           >Awards</a
         >
         <a
-          @click="
-            menuOpen = false
-            setActive('contact')
-          "
+          @click="menuOpen = false; setActive('contact')"
           href="#contact"
           :class="getLinkClass('contact')"
           >Contact</a
