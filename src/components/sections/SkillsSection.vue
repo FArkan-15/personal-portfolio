@@ -80,7 +80,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Wireframing (Basic)</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 60%"
                 ></div>
               </div>
@@ -90,7 +90,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">UI Layout Design</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 70%"
                 ></div>
               </div>
@@ -100,7 +100,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Design Consistency</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 75%"
                 ></div>
               </div>
@@ -110,7 +110,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">User-Centered Design (Basic)</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 55%"
                 ></div>
               </div>
@@ -131,7 +131,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Laravel (Basic)</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 80%"
                 ></div>
               </div>
@@ -141,7 +141,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">REST API</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 70%"
                 ></div>
               </div>
@@ -151,7 +151,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">MySQL</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 75%"
                 ></div>
               </div>
@@ -161,7 +161,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Database Design (Basic)</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 55%"
                 ></div>
               </div>
@@ -182,7 +182,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Proxmox VE</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 70%"
                 ></div>
               </div>
@@ -192,7 +192,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Virtual Machines (VM)</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 80%"
                 ></div>
               </div>
@@ -202,7 +202,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Linux</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 75%"
                 ></div>
               </div>
@@ -212,7 +212,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Server Deployment</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 70%"
                 ></div>
               </div>
@@ -233,7 +233,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">IP Addressing</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 75%"
                 ></div>
               </div>
@@ -243,7 +243,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Basic Routing</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 70%"
                 ></div>
               </div>
@@ -253,7 +253,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">Network Topology</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 75%"
                 ></div>
               </div>
@@ -263,7 +263,7 @@
               <p class="text-sm text-gray-300 font-medium mb-2">LAN Configuration</p>
               <div class="w-full bg-gray-800 h-1.5 rounded-full overflow-hidden">
                 <div
-                  class="bg-linear-to-r from-[#184e68] to-[#57ca85] h-full"
+                  class="bg-linear-to-r from-[#0e197d] to-[#57ca85] h-full"
                   style="width: 65%"
                 ></div>
               </div>
