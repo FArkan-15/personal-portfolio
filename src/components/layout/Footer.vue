@@ -97,7 +97,7 @@
               </svg>
             </a>
             <a
-              href="mailto:arkanrasendriya@gmail.com"
+              href="mailto:arkanrasendriya15@gmail.com"
               class="w-10 h-10 flex items-center justify-center rounded-full border border-gray-600 text-gray-400 hover:text-white hover:border-[#00df9a] transition-colors duration-300"
             >
               <svg
