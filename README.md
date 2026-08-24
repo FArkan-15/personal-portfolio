@@ -4,10 +4,6 @@ This is my personal portfolio website built using Vue.js and Tailwind CSS. It sh
 
 ---
 
-## 🌐 Live Demo
-👉 https://your-portfolio-link.netlify.app
-
----
 
 ## 📌 Features
 - Responsive modern UI
